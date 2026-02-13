@@ -1,0 +1,9 @@
+{
+  "name": "Swappr",
+  "description": "A Tinder-style marketplace for college campuses allowing students to swap items, notes, and skills.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
